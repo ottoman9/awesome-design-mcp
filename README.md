@@ -98,8 +98,10 @@ verify (Playwright)*.
 
 ## Related reading
 
-- [Gummble MCP vs Mobbin MCP (2026)](https://gummble.com/blog/gummble-mcp-vs-mobbin-mcp) —
+- [Gummble vs Mobbin MCP (2026)](https://gummble.com/compare/mobbin-mcp-alternative) —
   detailed tool-by-tool comparison
+- [State of Mobile Onboarding 2026](https://gummble.com/blog/state-of-mobile-onboarding-2026) —
+  first-party research across 137 mobile onboarding flows from 100 apps
 - [Official MCP Registry](https://registry.modelcontextprotocol.io) — canonical server registry
 - [Submitting to the Claude Connectors Directory](https://claude.com/docs/connectors/building/submission)
 
