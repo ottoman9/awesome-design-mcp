@@ -68,6 +68,11 @@ Generate new UI or pull production-ready components.
   describe a component and get a polished, editable React implementation.
 - **[shadcn MCP](https://ui.shadcn.com/docs/mcp)** — browse, search, and install components
   from shadcn/ui registries via natural language.
+- **[SVG Lab MCP](https://github.com/ottoman9/svglab-mcp)**: your AI designs app screens,
+  icons, and illustrations inside SVG Lab, and you watch it live. SVG Lab's Design Engine does
+  the layout, spacing, type, and drawing, and saves editable SVG to your SVG Lab projects.
+  Works with Claude, ChatGPT, Codex, and Cursor. Remote server, OAuth, nothing to install;
+  100 free credits (up to 24 app screens). [Website](https://svglab.app/mcp-server)
 
 ## Visual QA & debugging
 
